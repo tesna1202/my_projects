@@ -7,6 +7,12 @@ This repo is a collection of my projects.
 
 ## 🌟 Featured Projects
 
+### [Project 4: Customer Behavior Analysis](https://github.com/tesna1202/customer-behavior-analysis)
+- **Tech Stack**: Python, SQL Server, Power BI
+- **Description**: Built an end-to-end data analytics pipeline involving data cleaning, preprocessing, and feature engineering using Python (Pandas). Loaded processed data into SQL Server and performed analytical queries to identify customer segments and purchasing behavior. Developed an interactive Power BI dashboard to visualize key insights and support data-driven decision-making.
+
+---
+
 ### [Project 1: AmoebotModel](https://github.com/tesna1202/AmoebotModel)
 - **Tech Stack**: C#, Unity3D
 - **Description**: Developed distributed algorithms in C# using the Amoebot model and implemented a Unity3D simulation environment for bio-inspired movement, dynamic shape formation, and local rule-based interactions.
