@@ -10,6 +10,7 @@ This repo is a collection of my projects.
 ### [Project 4: Customer Behavior Analysis](https://github.com/tesna1202/customer-behavior-analysis)
 - **Tech Stack**: Python, SQL Server, Power BI
 - **Description**: Built an end-to-end data analytics pipeline involving data cleaning, preprocessing, and feature engineering using Python (Pandas). Loaded processed data into SQL Server and performed analytical queries to identify customer segments and purchasing behavior. Developed an interactive Power BI dashboard to visualize key insights and support data-driven decision-making.
+- **Screenshot**: (https://github.com/tesna1202/customer-behavior-analysis/blob/main/data/image/Screenshot%202026-04-24%20002950.png)
 
 ---
 
