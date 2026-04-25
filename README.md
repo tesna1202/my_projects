@@ -8,7 +8,7 @@ This repo is a collection of my projects.
 ## 🌟 Featured Projects
 
 ### [Project 1: Real-Time Chat Application](https://github.com/tesna1202/Chat_application)
-- **Tech Stack**: React.js, Node.js, Express.js, Socket.IO
+- **Tech Stack**: React.js, Node.js, Express.js, Socket.IO, JavaScript
 - **Description**: Developed a full-stack real-time chat application enabling multiple users to join chat rooms and communicate instantly. Implemented WebSocket-based communication using Socket.IO for live message exchange. Designed a responsive user interface with React and managed backend connections using Node.js and Express.
 - **Screenshot**: (https://github.com/tesna1202/Chat_application/blob/main/image/Screenshot%202026-04-26%20003710.png), (https://github.com/tesna1202/Chat_application/blob/main/image/Screenshot%202026-04-26%20003839.png)
 
