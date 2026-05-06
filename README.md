@@ -15,7 +15,7 @@ This repo is a collection of my projects.
   ---
 
 ### [Project 2: Currency Converter](https://github.com/tesna1202/Currency_converter)
-- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript, REST API
+- **Tech Stack**: HTML5, CSS3, JavaScript, REST API
 - **Description**: Built a responsive frontend currency converter that fetches live exchange rates from a public REST API. Implemented a currency swap feature for quick reversal of conversion direction. 
 
   ---
