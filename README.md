@@ -34,7 +34,7 @@ This repo is a collection of my projects.
 
 ---
 
-### [Project 5: E-commerce Automation](https://github.com/tesna1202/OpenCart)
+### [Project 5: E-commerce Automation](https://github.com/tesna1202/E-Commerce_Automation)
 - **Tech Stack**: Python, Selenium, Pytest
 - **Description**: Developed a hybrid test automation framework using Selenium, Python, and PyTest with data- and keyword-driven approaches, structured with the Page Object Model (POM), enabling cross-browser and parallel test execution with logging, exception handling, and HTML reporting.
 
